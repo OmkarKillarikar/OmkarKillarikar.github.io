@@ -10,7 +10,7 @@ has_children: true
   - Store data
   - Process data
   - Distribute data
-  - Generate data/new information.
+  - Generate, alter data/information.
 - We (humans) are capable of performing all the above functions.
 - In our case, the context for the information system is the whole human civilization, and wherever humans can navigate, interact/perform actions, collect, and distribute information (SIS).
 - From human information reception POV, SIS dominantly includes: Education system, TV news/newspaper, digital social media, books, movies and other entertainment media, websites and human <new-tab-link href="https://en.wikipedia.org/wiki/Social_network">social network</new-tab-link>.
