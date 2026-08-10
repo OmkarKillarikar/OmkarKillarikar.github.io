@@ -1,0 +1,7 @@
+---
+title: Mind Architecture
+nav_order: 2
+has_children: true
+---
+
+# Mind Architecture
