@@ -35,7 +35,7 @@ parent: Mind Architecture
 ### [Cognitive Biases](/essays/mind_arch/cognitive_biases)
 
 
-### [Reward system](/essays/reward_system)
+### [Reward system](/essays/mind_arch/reward_system)
 ### Learned information
 - Information learned in a specific iteration can be used to analyze incoming information in subsequent iterations. Refer to subdiagram below.
 - Capable of learning and increase awareness about evolutionary drives (emotions, reward system, biases) and possibly reduce their influence while critical thinking.

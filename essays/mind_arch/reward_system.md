@@ -1,6 +1,7 @@
 ---
 title: Reward System
 nav_order: 3
+parent: Mind Architecture
 ---
 
 # Reward system
