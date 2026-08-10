@@ -32,7 +32,7 @@ parent: Mind Architecture
 - Realtime emotional response to incoming data/experiences.
 
 
-### [Cognitive Biases](/essays/mind_arch/cognitive_biases.md)
+### [Cognitive Biases](/essays/mind_arch/cognitive_biases)
 
 
 ### [Reward system](/essays/reward_system)
